@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.destination-item {
+  list-style-type: none;
+  padding-left: 15px;
+}
+.image {
+  height: 150px;
+}
+.main-heading {
+  font-size: 18px;
+  font-family: roboto;
+}

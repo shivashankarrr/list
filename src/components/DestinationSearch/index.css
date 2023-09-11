@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.destination-search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.destinations-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.search-icon {
+  width: 25px;
+  cursor: pointer;
+  align-items: center;
+}
